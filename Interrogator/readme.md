@@ -12,3 +12,4 @@ The next step would be to develop functions to:
 ### Current Files
 - **interrogator_model.h5**: A saved version of the trained model from the hackfest LSTM, for consistency.
 - **lstm-Copy-Explore_Confusion_Matrices**: A saved version of the hackfest LSTM, for experimenting with ways of analyzing classifier outputs
+- **behavior.csv**: A saved version of the behaviors used in the hackfest LSTM, for linking predictions to the behavior text
